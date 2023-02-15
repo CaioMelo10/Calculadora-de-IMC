@@ -6,3 +6,6 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 Html/CSS/JS
+
+
+Confira: https://caiomelo10.github.io/Calculadora-de-IMC/
